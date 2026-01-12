@@ -21,9 +21,9 @@
   * 技術力・設計力がないと解決できないもの
 * 技術調査の参考先
 
-  * Endless Sphere DIY EV Forum
-  * Reddit 技術系コミュニティ（例：AskEngineers）
-  * ChatGPT / Gemini DeepResearch 併用を推奨
+  * [Endless Sphere DIY EV Forum](https://endless-sphere.com/sphere/)
+  * Reddit 技術系コミュニティ（例：[AskEngineers](https://www.reddit.com/r/AskEngineers)）
+  * ChatGPT / GeminiのDeepResearch 併用を推奨
 
 ---
 
